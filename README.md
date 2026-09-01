@@ -1,13 +1,12 @@
 ## HDA-CrossTransUnet
 
-
 ### 1. Qualitative Comparison
 
 #### Synapse 2D Multi-Organ Dataset
 
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1CeH2WerY4UPvyMK_ScgyHsUx2LVw3lDl"
-       alt="HDA-CrossTransUnet qualitative results on the Synapse 2D Multi-Organ Dataset"
+       alt="HDA-CrossTransUnet Synapse 2D Multi-Organ Dataset"
        width="700">
 </p>
 
@@ -19,8 +18,10 @@
        width="600">
 </p>
 
+#### PH2 Dataset
+
 <p align="center">
-  <img src="https://drive.google.com/file/d/1-c_GuQP28dgFncTOY9x76U7VxFIRX_6C/view?usp=sharing"
+  <img src="https://drive.google.com/uc?export=view&id=1-c_GuQP28dgFncTOY9x76U7VxFIRX_6C"
        alt="HDA-CrossTransUnet PH2 Dataset"
        width="600">
 </p>
