@@ -1,6 +1,5 @@
 ## HDA-CrossTransUnet
 
-![HDA-CrossTransUnet Architecture](figures/architecture.png)
 
 ### 1. Qualitative Comparison
 
@@ -16,7 +15,13 @@
 
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1NKApyw6EMvBKO4-EzjwlAgHiflslgEyp"
-       alt="HDA-CrossTransUnet qualitative results on the UDIAT Dataset"
+       alt="HDA-CrossTransUnet UDIAT Dataset"
+       width="600">
+</p>
+
+<p align="center">
+  <img src="https://drive.google.com/file/d/1-c_GuQP28dgFncTOY9x76U7VxFIRX_6C/view?usp=sharing"
+       alt="HDA-CrossTransUnet PH2 Dataset"
        width="600">
 </p>
 
