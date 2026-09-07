@@ -1,6 +1,5 @@
 ## HDA-CrossTransUnet
 
-[Synapse 2D Multi-Organ Dataset Notebook](https://drive.google.com/file/d/11TQhUqT8D9SGA1VV0Lmtv20YYzcNKGio/view?usp=sharing)
 
 ### 1. Qualitative Comparison
 
