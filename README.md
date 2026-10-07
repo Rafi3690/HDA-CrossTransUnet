@@ -3,7 +3,7 @@
 
 ### 1. Qualitative Comparison
 
-#### Synapse 2D Multi-Organ Dataset
+#### Synapse Multi-Organ Dataset
 
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1CeH2WerY4UPvyMK_ScgyHsUx2LVw3lDl"
